@@ -1,4 +1,4 @@
-const nota = 6.5;
+const nota = 10;
 
 if (nota >= 9 && nota <=10) {
     console.log("Parabéns o seu conceito é A!!");
@@ -15,8 +15,8 @@ if (nota <= 4.9 && nota >= 4.5){
     console.log("Seu conceito foi D, você precisa de reforço!");
 }
 
-if (nota <=4.5){
-    console.log("Seu conceito é D e você precisa urgentemente de reforço especial para não ser reprovado!!");
+if (nota >= 0 && nota <=4.5){
+    console.log("Seu conceito é F e você precisa urgentemente de reforço especial para não ser reprovado!!");
 }
 
 
