@@ -1,4 +1,4 @@
-// esse é somente uma forma diferente de escrever a estrutura da aula passada usando else if juntos para definir as coisas
+// esse é somente uma forma diferente de escrever a estrutura da aula passada usando else if juntos para definir as coisas ( ESSA É A FORMA PREFERIDA DOS DESENVOLVEDORES PARA TRABALHAR)
 
 const hora = 11;
 let saudacao;
